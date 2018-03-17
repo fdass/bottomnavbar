@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TabMenuFooter</string>
+    <string name="title_beranda">Beranda</string>
+    <string name="title_cari">Cari</string>
+    <string name="title_histori">Histori</string>
+    <string name="title_akun">Akun</string>
+</resources>
