@@ -23,10 +23,7 @@ import java.util.Calendar;
 
 public class ActivitySearch extends Fragment implements View.OnClickListener {
 
-    sadassadasdasdadassad
-    sadassadasdasdadassadsdas
-    sadassadasdasdadassad
-    dsfsd
+    fredrik
     private String[] germanFeminine = {
             "Negeri",
             "Penelitian",
