@@ -23,11 +23,10 @@ import java.util.Calendar;
 
 public class ActivitySearch extends Fragment implements View.OnClickListener {
 
-    private static final String TAG = "MainActivity";
-    private TextView mDisplayDate;
-    private TextView butto;
-    private DatePickerDialog.OnDateSetListener mDateSetListener;
-    private Spinner spNamen2;
+    sadassadasdasdadassad
+    sadassadasdasdadassadsdas
+    sadassadasdasdadassad
+    dsfsd
     private String[] germanFeminine = {
             "Negeri",
             "Penelitian",
